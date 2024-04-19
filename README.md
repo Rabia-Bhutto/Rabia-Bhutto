@@ -1,11 +1,9 @@
+![logo](https://github.com/Rabia-Bhutto/Rabia-Bhutto/blob/main/Images/Banner.png)
+
 <h1 align="center">Hello, I'm Rabia Bhutto</h1>
 <h3 align="center">A passionate full stack learner from Pakistan.</h3>
 
-<img src="https://pin.it/3MNzxnmic" alt="Coding" align="right" width="400px">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabia-bhutto&label=Profile%20views&color=0e75b6&style=flat" alt="rabia-bhutto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabia-bhutto" alt="rabia-bhutto" /></a> </p>
+<img src="Images/GIF.gif" alt="Coding" align="right" width="300px">
 
 - I’m currently making **UIs.**
 
@@ -15,9 +13,9 @@
 
 - Ask me about **HTML, CSS and Bootsrap**
 
-- How to reach me **rabiabhutto05@gmail.com**
+- Reach me through emails on **rabiabhutto05@gmail.com**
 
-- Fun fact **I tend to focus on my problem solving skills.**
+- Fun fact: **I tend to focus on my problem solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
